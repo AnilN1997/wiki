@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Default suite]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)(failed)">
+    <classes>
+      <class name="Anil.anil.WikiPediaTest">
+        <methods>
+          <include name="date"/>
+          <include name="tearDown"/>
+          <include name="browserLaunch"/>
+          <include name="pageObjects"/>
+        </methods>
+      </class> <!-- Anil.anil.WikiPediaTest -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->
